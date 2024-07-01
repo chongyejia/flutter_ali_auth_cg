@@ -67,7 +67,7 @@ class _MyAppState extends State<MyApp> {
       onWillPop: () {
         // 退出APP方法一
         EasyLoading.show(
-          status: '您确定要退出思预云吗?',
+          status: '您确定要退出宠业家吗？',
         );
         return Future.value(false);
       }, // look here!

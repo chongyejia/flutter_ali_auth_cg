@@ -6,5 +6,6 @@
         <domain includeSubdomains="true">140.205.57.248</domain> <!-- demo测试ip，开发者无需添加 -->
         <domain includeSubdomains="true">gw.api.tbsandbox.com</domain> <!-- demo测试域名，开发者无需添加 -->
         <domain includeSubdomains="true">m.aliyun.com</domain> <!-- demo测试域名，开发者无需添加 -->
+        <domain includeSubdomains="true">npc.gov.cn</domain> <!-- demo测试域名，开发者无需添加 -->
     </domain-config>
 </network-security-config>
